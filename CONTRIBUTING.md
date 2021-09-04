@@ -2,11 +2,7 @@
 Thanks for (thinking about) contributing, all help is wanted!
 
 ## Before submitting an bug
-First, please do a search in [issues](https://github.com/WildcatKSS/gekko-scripts/issues) to see if the bug or feature request has already been filed.
-
-If you find your issue already exists, make relevant comments and add your reaction.
-
-If you cannot find an existing issue that describes your bug or feature, submit an issue using the guidelines below.
+First, please do a search in [issues](https://github.com/WildcatKSS/gekko-scripts/issues) to see if the bug or feature request has already been filed. If you find your issue already exists, make relevant comments and add your reaction. If you cannot find an existing issue that describes your bug or feature, submit an issue using the guidelines below.
 
 ### Submitting an bug
 * Be as clear and concise as possible
