@@ -9,7 +9,7 @@ First, please do a search in [issues](https://github.com/WildcatKSS/gekko-script
 * Do not submit more than one bug in a single issue
 * Add the label bug to the issue
 
-### Submitting a [feature requests]
+### Submitting a [feature requests](https://github.com/WildcatKSS/gekko-scripts/issues/new?assignees=&labels=&template=feature_request.md&title=)
 * First consider if you might be able to work on the feature youslef? If so, check out info on contributing code below.
 * If you do not have the skills, then please take the time to clearly think through the request. Is is appropriate for all users?  If so, create a new issue containing the following:
 
