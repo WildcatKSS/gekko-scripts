@@ -11,15 +11,6 @@ By running the following commands the scripts will be installed in the location 
 
 `git clone https://github.com/WildcatKSS/gekko-scripts.git -b master`
 
-## Update
-By running the following commands the scripts wil be updated:
-
-`cd /usr/local/bin`
-
-`git checkout master`
-
-`git pull`
-
 ## The scripts
 The scripts will install and maintain the crypto trading bot Gekko and the additional strategies.
 
@@ -31,5 +22,15 @@ Run the following commands:
 `sudo gekko-install.sh`
 
 ### Gekko-update
+This script will install the crypto trading bot Gekko in /usr/local/lib
+
+Run the following commands:
+
+`sudo gekko-update.sh`
 
 ### Gekko-server
+This script will install the crypto trading bot Gekko in /usr/local/lib
+
+Run the following commands:
+
+`sudo gekko-server.sh`
