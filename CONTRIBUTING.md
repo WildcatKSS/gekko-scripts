@@ -5,12 +5,14 @@ Thanks for (thinking about) contributing, all help is wanted!
 First, please do a search in [issues](https://github.com/WildcatKSS/gekko-scripts/issues) to see if the [bug](https://github.com/WildcatKSS/gekko-scripts/labels/bug) or [feature](https://github.com/WildcatKSS/gekko-scripts/labels/enhancement) request has already been filed. If you find your issue already exists, make relevant comments and add your reaction. If you cannot find an existing issue that describes your bug or feature, [submit](https://github.com/WildcatKSS/gekko-scripts/issues/new/choose) an issue using the guidelines below.
 
 ### Submitting an bug
+* Be as clear and concise as possible
+* Do not submit more than one bug in a single issu
 
+[bug](https://github.com/WildcatKSS/gekko-scripts/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
 
 (https://github.com/WildcatKSS/gekko-scripts/issues/new/choose)
-* Be as clear and concise as possible
-* Do not submit more than one bug in a single issue
+
 
 https://github.com/WildcatKSS/gekko-scripts/labels/enhancement
 
