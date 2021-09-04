@@ -30,7 +30,7 @@ This script will:
 1. Edit crontab to run a monthly basis an update of the trading bot Gekko and the strategies
 1. Create a Gekko service and start gekko
 
-Run the following commands:
+Run the following command:
 
 `sudo gekko-install.sh`
 
