@@ -1,21 +1,17 @@
 #!/bin/bash
 
 # Update the crypto trading bot Gekko and the additional strategie
-cd /usr/local/lib
+cd /usr/local/lib/gekko
 
-git checkout stable
-git pull
-npm install --only=production
-cd exchange
-npm install --only=production
-cd ..
+sudo git checkout stable
 
+sudo git pull
 
 cd /usr/local/lib/gekko-strategies
 
-git checkout stable
+sudo git checkout stable
 
-git pull
+sudo git pull
 
 cd ..
 
