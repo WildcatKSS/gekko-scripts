@@ -15,13 +15,9 @@ First, please do a search in [issues](https://github.com/WildcatKSS/gekko-script
 * Add the label enhancement to the issue.
 
 ## New Feature and code contributions
-
-- If you want to add an exchange to Gekko, see [this doc](https://gekko.wizb.it/docs/extending/add_an_exchange.html) for all the information you need.
-- If you want to Gekko react to anything from the market, you can most likely put this functionality into a plugin. See [this document](https://gekko.wizb.it/docs/internals/plugins.html) for details.
-- If you want to create a strategy, please see [this page](https://gekko.wizb.it/docs/strategies/creating_a_strategy.html).
-- If you just want to work on Gekko, you can use the open issues with the tag `open-for-pulls` for inspiration.
-- If you want to work on the web interface (Gekko UI), please see [this frontend doc](https://gekko.wizb.it/docs/internals/gekko_ui.html) on the Vue.js frontend.
+* If you want to create a new script, please see [this page](https://gekko.wizb.it/docs/strategies/creating_a_strategy.html).
+* If you just want to work on the scripts, you can use the [open issues with the label enhancement](https://github.com/WildcatKSS/gekko-scripts/labels/enhancement) for inspiration.
 
 Things to take into consideration when submitting a pull request:
-* Please submit all pull requests (except to the [develop branch](https://github.com/askmike/gekko/tree/develop).
- - Please keep current code styling in mind.
+* Please submit all pull requests (except to the [develop branch](https://github.com/WildcatKSS/gekko-scripts/tree/develop).
+* Please keep current code styling in mind.
