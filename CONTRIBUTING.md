@@ -1,29 +1,21 @@
 # Contributing
-
 Thanks for (thinking about) contributing, all help is wanted!
 
 ## Before Submitting an Issue
+First, please do a search in [issues](https://github.com/WildcatKSS/gekko-scripts/issues) to see if the issue or feature request has already been filed.
 
-First, please do a search in [open issues](https://github.com/WildcatKSS/gekko-scripts/issues) to see if the issue or feature request has already been filed.
-
-If you find your issue already exists, make relevant comments and add your reaction:
-
-👍 - upvote
-
-👎 - downvote
+If you find your issue already exists, make relevant comments and add your reaction.
 
 If you cannot find an existing issue that describes your bug or feature, submit an issue using the guidelines below.
 
 ### Submitting an issue (bug)
-
-* Be as clear and concise as possible.
-* Do not submit more than one bug in a single issue.
-* Clearly explain the following:
-
-1. Action taken (what you did)
-2. Expected result (what you hoped would happen)
-3. Actual result (unexpected outcome)
-4. Your setup (any and all relevant technical facts, error messages, logs, etc)
+1. Be as clear and concise as possible.
+1. Do not submit more than one bug in a single issue.
+1. Clearly explain the following:
+   1. Action taken (what you did)
+   1. Expected result (what you hoped would happen)
+   1. Actual result (unexpected outcome)
+   1. Your setup (any and all relevant technical facts, error messages, logs, etc)
 
 ### Feature requests
 
