@@ -11,7 +11,7 @@ First, please do a search in [issues](https://github.com/WildcatKSS/gekko-script
 
 ### Submitting a [feature requests](https://github.com/WildcatKSS/gekko-scripts/issues/new?assignees=&labels=&template=feature_request.md&title=)
 * First consider if you might be able to work on the feature yourself? If so, check out info on contributing code below.
-* If you do not have the skills, then please take the time to clearly think through the request. Is is appropriate for all users?  If so, create a [feature requests](https://github.com/WildcatKSS/gekko-scripts/issues/new?assignees=&labels=&template=feature_request.md&title=).
+* If you do not have the skills, then please take the time to clearly think through the request. Is is appropriate for all users?  If so, [create a feature requests](https://github.com/WildcatKSS/gekko-scripts/issues/new?assignees=&labels=&template=feature_request.md&title=).
 * Add the label enhancement to the issue.
 
 ## New Feature and code contributions
