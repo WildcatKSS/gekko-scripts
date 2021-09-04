@@ -15,13 +15,13 @@ sudo git clone https://github.com/WildcatKSS/gekko-strategies.git -b stable
 
 sudo cp gekko-strategies/* gekko -R
 
-cd gekko
+cd /usr/local/lib/gekko
 
 sudo npm install --only=production
 
 sudo npm install talib tulind convnetjs zero-fill stats-lite numbro mathjs cluster lodash.ismatch gauss
 
-cd exchange
+cd /usr/local/lib/gekko/exchange
 
 sudo npm install --only=production
 
