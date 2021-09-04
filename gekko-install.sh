@@ -28,7 +28,7 @@ sudo npm install --only=production
 sudo npm install talib tulind convnetjs zero-fill stats-lite numbro mathjs cluster lodash.ismatch gauss
 
 # Edit crontab to run on a monthly basis an update of the crypto trading bot Gekko and the strategies
-sudo gekko-update.sh
+sudo echo "0 0 1 * * root /usr/local/bin/gekko-update.sh" | crontab -
 
 #Create a Gekko service and start gekko
 sudo gekko-service.sh
