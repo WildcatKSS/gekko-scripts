@@ -24,7 +24,7 @@ All commands  at once
 ## The scripts
 The scripts will install and maintain the crypto trading bot Gekko and the additional strategies.
 
-### Gekko-install
+### Gekko-install.sh
 This script will:
 1. Install the crypto trading bot Gekko and the additional strategie in /usr/local/lib
 1. Edit crontab to run a monthly basis an update of the trading bot Gekko and the strategies
@@ -34,10 +34,10 @@ Run the following command:
 
 `sudo gekko-install.sh`
 
-### Gekko-update
+### Gekko-update.sh
 This script will monthly update the crypto trading bot Gekko and the additional strategies.
 
-### Gekko-service
+### Gekko-service.sh
 This script will:
 1. Create a Gekko service
 1. Start Gekko
