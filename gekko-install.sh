@@ -13,7 +13,7 @@ sudo git clone git://github.com/askmike/gekko.git -b stable
 
 sudo git clone https://github.com/WildcatKSS/gekko-strategies.git -b stable
 
-sudo cp gekko-strategies/* gekko -R
+sudo cp /usr/local/lib/gekko-strategies/* /usr/local/lib/gekko -R
 
 cd /usr/local/lib/gekko
 
