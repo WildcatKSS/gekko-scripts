@@ -8,7 +8,7 @@ GNU General Public License v3.0 License
 ## Installation
 Run the following commands:
 
-'cd /usr/local/bin'
+`cd /usr/local/bin`
 
 `git clone https://github.com/WildcatKSS/gekko-scripts.git -b master`
 
