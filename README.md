@@ -22,7 +22,7 @@ All commands  at once
 `cd /usr/local/bin && sudo apt-get update -y && sudo apt-get install -y git && sudo git clone https://github.com/WildcatKSS/gekko-scripts.git -b master && sudo chmod 6744 gekko-install.sh gekko-update.sh gekko-service.sh`
 
 ## The scripts
-The scripts will install and maintain the crypto trading bot Gekko and the additional strategies.
+The scripts will install, maintain and start the crypto trading bot Gekko and the additional strategies.
 
 ### Gekko-install.sh
 This is the only script that you will need to run manually. This script will:
