@@ -15,9 +15,9 @@ First, please do a search in [issues](https://github.com/WildcatKSS/gekko-script
 * Add the label enhancement to the issue.
 
 ## New Feature and code contributions
-* If you want to create a new script, please see [this page](https://gekko.wizb.it/docs/strategies/creating_a_strategy.html).
+* If you want to create a new script, go ahead.
 * If you just want to work on the scripts, you can use the [open issues with the label enhancement](https://github.com/WildcatKSS/gekko-scripts/labels/enhancement) for inspiration.
 
 Things to take into consideration when submitting a pull request:
-* Please submit all pull requests (except to the [develop branch](https://github.com/WildcatKSS/gekko-scripts/tree/develop).
+* Please submit all pull requests to the [develop branch](https://github.com/WildcatKSS/gekko-scripts/tree/develop).
 * Please keep current code styling in mind.
