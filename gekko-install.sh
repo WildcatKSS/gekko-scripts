@@ -32,3 +32,5 @@ sudo gekko-update.sh
 
 #Create a Gekko service and start gekko
 sudo gekko-service.sh
+
+exit 0
