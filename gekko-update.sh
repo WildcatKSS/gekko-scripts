@@ -3,17 +3,6 @@
 # Update the crypto trading bot Gekko and the additional strategie
 cd /usr/local/lib
 
-
-
-By running the following commands the scripts wil be updated:
-
-`cd /usr/local/bin`
-
-`git checkout master`
-
-`git pull`
-
-
 git checkout stable
 git pull
 npm install --only=production
@@ -22,11 +11,9 @@ npm install --only=production
 cd ..
 
 
+cd /usr/local/lib/gekko-strategies
 
-
-
-
-git checkout master
+git checkout stable
 
 git pull
 
@@ -34,6 +21,23 @@ cd ..
 
 cp gekko-strategies/* gekko -R
 
+
+
+
+cd /usr/local/lib/gekko
+
+npm install --only=production
+
+sudo npm install talib tulind convnetjs zero-fill stats-lite numbro mathjs cluster lodash.ismatch gauss
+
+cd exchange
+
+npm install --only=production
+
+sudo npm install talib tulind convnetjs zero-fill stats-lite numbro mathjs cluster lodash.ismatch gauss
+
+
+exit 0
 
 
 
