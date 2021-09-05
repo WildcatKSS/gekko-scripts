@@ -5,11 +5,13 @@ cd /usr/local/lib
 
 sudo apt-get update -y
 
+sudo apt-get upgrade -y
+
 sudo apt-get install -y git nodejs npm
 
 sudo apt-get autoremove -y
 
-sudo git clone git://github.com/askmike/gekko.git -b stable
+sudo git clone https://github.com/WildcatKSS/gekko.git -b stable
 
 sudo git clone https://github.com/WildcatKSS/gekko-strategies.git -b stable
 
