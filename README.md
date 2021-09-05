@@ -9,9 +9,9 @@ By running the following commands the scripts will be installed in the location 
 
 `cd /usr/local/bin`
 
-`sudo apt-get update -y`
+`sudo apt update -y`
 
-`sudo apt-get install -y git`
+`sudo apt install -y git`
 
 `sudo git clone https://github.com/WildcatKSS/gekko-scripts.git -b stable`
 
@@ -21,7 +21,7 @@ By running the following commands the scripts will be installed in the location 
 
 All commands  at once
 
-`cd /usr/local/bin && sudo apt-get update -y && sudo apt-get install -y git && sudo git clone https://github.com/WildcatKSS/gekko-scripts.git -b master && sudo chmod 6744 gekko-install.sh gekko-update.sh gekko-service.sh`
+`cd /usr/local/bin && sudo apt update -y && sudo apt install -y git && sudo git clone https://github.com/WildcatKSS/gekko-scripts.git -b master && sudo chmod 6744 gekko-install.sh gekko-update.sh gekko-service.sh`
 
 ## The scripts
 The scripts will install, maintain and start the crypto trading bot Gekko and the additional strategies.
