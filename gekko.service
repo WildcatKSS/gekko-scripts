@@ -1,0 +1,10 @@
+[Unit]
+Description=Job that runs gekko-service.sh script
+
+[Service]
+ExecStart=/usr/local/bin/gekko-service.sh
+Type=oneshot
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
