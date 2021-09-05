@@ -3,13 +3,13 @@
 # Installing the crypto trading bot Gekko and the additional strategie
 cd /usr/local/lib
 
-sudo apt-get update -y
+sudo apt update -y
 
-sudo apt-get upgrade -y
+sudo apt upgrade -y
 
-sudo apt-get install -y git nodejs npm
+sudo apt install -y nodejs npm
 
-sudo apt-get autoremove -y
+sudo apt autoremove -y
 
 sudo git clone https://github.com/WildcatKSS/gekko.git -b stable
 
