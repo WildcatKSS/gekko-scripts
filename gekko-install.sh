@@ -33,6 +33,8 @@ sudo npm install talib tulind convnetjs zero-fill stats-lite numbro mathjs clust
 sudo echo "0 0 1 * * root /usr/local/bin/gekko-update.sh" | crontab -
 
 #Create a Gekko service and start gekko
+sudo mv /usr/local/bin/gekko.service /etc/systemd/system/gekko.service
+
 sudo gekko-service.sh
 
 exit 0
