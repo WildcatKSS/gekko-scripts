@@ -15,7 +15,9 @@ By running the following commands the scripts will be installed in the location 
 
 `sudo git clone https://github.com/WildcatKSS/gekko-scripts.git -b stable`
 
-`sudo chmod 6744 gekko-install.sh gekko-update.sh gekko-service.sh`
+`cd /usr/local/bin/gekko-scripts`
+
+`sudo chmod 0744 gekko-install.sh gekko-update.sh gekko-service.sh`
 
 All commands  at once
 
